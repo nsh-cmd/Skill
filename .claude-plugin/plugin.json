@@ -1,0 +1,8 @@
+{
+  "name": "dev-team",
+  "description": "A professional AI agent team for the full development lifecycle: planning, design, implementation, testing, review, security, docs, and release. Includes an orchestrator skill, 9 specialized subagents, pipeline checkpoints with approval gates, parallel worktree fan-out, and a persistent project-memory convention.",
+  "version": "0.1.0",
+  "author": {
+    "name": "nsh-cmd"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nsh-skill",
+  "description": "Personal Claude Code plugin marketplace by nsh-cmd — home of the dev-team AI agent team plugin",
+  "owner": {
+    "name": "nsh-cmd"
+  },
+  "plugins": [
+    {
+      "name": "dev-team",
+      "source": "./",
+      "description": "Full-lifecycle AI dev team: orchestrator skill + 9 specialized subagents with pipeline checkpoints, approval gates, and project memory"
+    }
+  ]
+}
